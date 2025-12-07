@@ -36,7 +36,7 @@ Project_1-Secure_Check/
 ## 🚀 How to Run
 
 1. Clone the repo  
-   `git clone https://github.com/Infant-Joshva/Project_1-Secure_Check.git`
+   `git clone https://github.com/wilson-in/securecheck_ledger.git`
 
 2. Navigate to the app folder  
    `cd Project_1-Secure_Check/app`
